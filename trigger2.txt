@@ -1,0 +1,2 @@
+test2 chmod 0777 .git
+
